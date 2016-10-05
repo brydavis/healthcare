@@ -9,3 +9,6 @@ Here are some download sites
 Here are some ways to access data via APIs
   
   - [NPI](https://npiregistry.cms.hhs.gov/registry/help-api)
+  
+### Third-Party
+Here are some sites that provide similar data / services
