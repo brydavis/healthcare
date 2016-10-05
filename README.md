@@ -1,4 +1,4 @@
-# healthcare
+# Healthcare Data Resources
 Repository aims to capture information on data sources related to healthcare infrastructure.
 Data of interest:
 - ICD
