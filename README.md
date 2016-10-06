@@ -27,3 +27,4 @@ Here are some ways to access data via APIs
 ### Other Third-Party
 Here are some sites that provide similar data / services
 - [Find-a-Code](https://www.findacode.com/)
+- [Health Language](http://www.healthlanguage.com/enterprise-terminology-platform-overview/capabilities/#language-engine)
